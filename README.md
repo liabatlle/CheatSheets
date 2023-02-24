@@ -4,13 +4,6 @@
 CheatSheets de diferets llenguatges:
 
 
-
-
-## Badges
-
-
-
-
 ## Documentació
 
 - [C#](https://github.com/liabatlle/CheatSheets/blob/main/C%23.md)
