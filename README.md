@@ -1,7 +1,7 @@
 
 # CheatSheets
 
-CheatSheets de diferets llenguatges:
+CheatSheets en diferents llenguatges:
 
 
 ## Documentació
